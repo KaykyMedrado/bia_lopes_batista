@@ -1809,6 +1809,10 @@ body {
   .header-area .main-nav .logo h1 {
     border-right: none;
   }
+  .logo2 {
+    display: none;
+    visibility: collapse;
+  }
   .main-banner .item {
     padding: 80px 30px 120px 30px !important;
   }
@@ -1831,6 +1835,10 @@ body {
   }
   .header-area .main-nav .logo h1 {
     font-size: 34px;
+  }
+  .logo2 {
+    display: none;
+    visibility: collapse;
   }
   .header-area .main-nav .logo {
     border-right: none;
